@@ -28,4 +28,4 @@ I am a 25 years old Interior Designer from São Paulo-SP who decided to change c
 
 
 ## 
-![](https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=omni) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=carenmurai&layout=compact&theme=omni)
+![](https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=omni)
