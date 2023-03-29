@@ -1,6 +1,7 @@
+![](https://github.com/carenmurai/carenmurai/blob/main/bannerdev.png)
+
 ### Hi there 👋, my name is Caren Murai
 #### a Full Stack Web Developer 
-![](https://github.com/carenmurai/carenmurai/blob/main/bannerdev.png)
 
 I am a 25 years old Interior Designer from São Paulo-SP who decided to change careers and chose to become a Web Developer. Currently I'm a Front-end Web Developer in training at Labenu's Full Stack Web Development bootcamp, in which I was able to develop several individual projects with many more to come.
 
@@ -28,4 +29,4 @@ I am a 25 years old Interior Designer from São Paulo-SP who decided to change c
 
 
 ## 
-![](https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=omni)
+![](https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=omni) ![GitHub streak stats](https://streak-stats.demolab.com/?user=carenmurai)  
