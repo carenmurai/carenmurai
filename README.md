@@ -12,11 +12,7 @@ I am a 25 years old Interior Designer from São Paulo-SP who decided to change c
 <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-<img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-Illustrator-logo-1-1.png">
 <img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo-2048x1997.png">
-<img align="center" height="40" width="40" src="https://www.imagensempng.com.br/wp-content/uploads/2020/12/in-design.png">
-<img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/adobe-premiere-pro-logo-1-1.png">
-<img align="center" height="40" width="40" src="https://logodownload.org/wp-content/uploads/2017/04/adobe-after-effects-logo-8-2048x1997.png">
 
 </div>
 
@@ -34,6 +30,4 @@ I am a 25 years old Interior Designer from São Paulo-SP who decided to change c
 
 ## 
 
-<a href="https://github.com/carenmurai">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carenmurai&layout=compact&langs_count=7&theme=cobalt"/>
+![](https://github-readme-stats.vercel.app/api?username=carenmurai&show_icons=true&theme=omni)
