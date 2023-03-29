@@ -29,9 +29,4 @@ I am a 25 years old Interior Designer from São Paulo-SP who decided to change c
 
 
 ## 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="150em" src=" https://github-readme-stats.vercel.app/api/pin/?carenmurai&show_icons=true&theme=omni=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat](https://github-readme-stats.vercel.app/api/top-langs/?username=carenmurai&layout=compact)" />
-</a>
+![](https://github-readme-stats.vercel.app/api?carenmurai=anuraghazra&show_icons=true&theme=omni) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carenmurai&layout=compact&theme=omni)](https://github.com/anuraghazra/github-readme-stats)
