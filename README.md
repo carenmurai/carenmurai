@@ -1,4 +1,4 @@
-![](https://github.com/carenmurai/carenmurai/blob/main/bannerdev.png)
+![](https://github.com/carenmurai/carenmurai/blob/main/banner.png)
 
 ### Hi there 👋, my name is Caren Murai
 
