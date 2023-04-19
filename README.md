@@ -2,9 +2,9 @@
 
 ### Hi there 👋, my name is Caren Murai
 
-[en] I am a 25 years old Interior Designer from São Paulo-SP who decided to change careers and chose to become a Web Developer. Currently I'm a Front-end Web Developer in training at Labenu's Full Stack Web Development bootcamp, in which I was able to develop several individual projects with many more to come.
+[en] I am a 25 years old Interior Designer from São Paulo-SP who decided to change careers and chose to become a Web Developer. Currently I'm a Front-End Web Developer in training at Labenu's Full Stack Web Development bootcamp, in which I was able to develop several individual projects with many more to come.
 
-[pt-br] Sou uma Designer de Interiores de 25 anos de São Paulo-SP que decidiu mudar de carreira e escolheu ser Desenvolvedora Web. Atualmente sou Front-end Web Developer em formação pelo bootcamp Full Stack Web Development da Labenu, onde pude desenvolver vários projetos individuais com muitos mais por vir.
+[pt-br] Sou uma Designer de Interiores de 25 anos de São Paulo-SP que decidiu mudar de carreira e escolheu ser Desenvolvedora Web. Atualmente sou Front-End Web Developer em formação pelo bootcamp Full Stack Web Development da Labenu, onde pude desenvolver vários projetos individuais com muitos mais por vir.
 
 ##
 
